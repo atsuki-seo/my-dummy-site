@@ -3,11 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: ""
+title: "ホーム"
 list_title: "最近の投稿"
 ---
 
-## このページについて
 Code for Kamijimaへようこそ。
 
 上島町は、愛媛県北部・瀬戸内海のほぼ中央に位置している自然豊かな離島です。
