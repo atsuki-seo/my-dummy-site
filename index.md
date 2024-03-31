@@ -5,6 +5,3 @@
 layout: home
 list_title: "最近の投稿"
 ---
-
-## Code for Kamijimaとは？
-読んで字の如くなのだ
