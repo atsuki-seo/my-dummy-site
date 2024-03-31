@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: "ホーム"
+title: "トップ"
 list_title: "最近の投稿"
 ---
 
