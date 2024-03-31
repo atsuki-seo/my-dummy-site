@@ -3,4 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+list_title: "最近の投稿"
 ---
+
+## Code for Kamijimaとは？
+読んで字の如くなのだ
