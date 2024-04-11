@@ -5,6 +5,8 @@
 layout: home
 title: "トップ"
 list_title: "最近の投稿"
+pagination: 
+  enabled: true
 ---
 
 このページはシビックテック団体、Code for Kamijimaのホームページです。
