@@ -32,8 +32,6 @@ header_pages:
   - aboutus.md
   - dummy.md
 
-destination: docs/
-
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
