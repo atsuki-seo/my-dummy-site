@@ -28,4 +28,4 @@ list_title: "最近の投稿"
 
 
 ## 付録
-- 本ドキュメントは[GitHub]()で管理されたオープンソースです。
+- 本ドキュメントは[GitHub](https://github.com/atsuki-seo/my-dummy-site)で管理されたオープンソースです。
