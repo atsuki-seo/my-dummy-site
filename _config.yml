@@ -31,7 +31,8 @@ plugins:
 
 header_pages:
   - aboutus.md
-  - dummy.md
+  - blog/index.html
+  - project.md
 
 paginate: 1
 paginate_path: "/blog/page:num/"
