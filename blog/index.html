@@ -7,8 +7,8 @@ title: "ブログ"
 list_title: "最近の投稿"
 ---
 
-{%- if site.posts.size > 0 -%}
 <div>
+  {%- if site.posts.size > 0 -%}
   <ul class="post-list">
     <!-- This loops through the paginated posts -->
     {% for post in paginator.posts %}
@@ -37,5 +37,7 @@ list_title: "最近の投稿"
       {% endif %}
     </div>
   </ul>
+  {%- else -%}
+  <p>現在、投稿されている記事はありません。</p>
+  {%- endif -%}
 </div>
-{%- endif -%}
