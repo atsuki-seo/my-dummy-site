@@ -38,6 +38,9 @@ Code for Kamijimaは愛媛県越智郡上島町（以下、上島町）に関わ
 
 Code for Kamijimaはこの自然豊かな瀬戸内の離島をよりよくするための活動を行います！
 
+{:align="center"}
+![](favicon.ico)
+
 ---
 　　
 ## 付録
